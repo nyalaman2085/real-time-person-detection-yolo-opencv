@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.webm
+*.mp4
+.DS_Store
